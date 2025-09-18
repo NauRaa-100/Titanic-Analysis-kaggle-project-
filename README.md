@@ -6,7 +6,7 @@ The goal is to perform **Exploratory Data Analysis (EDA)**, clean the dataset,
 and extract insights about survival rates based on passenger features.
 
 ##  Dataset
-- **Source**: [Kaggle Titanic Dataset]([https://www.kaggle.com/c/titanic](https://www.kaggle.com/datasets/yasserh/titanic-dataset?select=Titanic-Dataset.csv))  
+- **Source**: [Kaggle Titanic Dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset?select=Titanic-Dataset.csv)
 - **Rows**: ~891 passengers  
 - **Columns**: 12 features (Name, Age, Sex, Ticket, Cabin, Embarked, etc.)
 
